@@ -1,7 +1,7 @@
 # Solar System Model RK4
 solar_system_model_rk4.py is my most recent coding project to date. This program was written for my 3rd year Computational Projects module. It is currently in an intermediate state as extra functionality shall need to be added in order to complete my project goals. 
 
-This program improves upon my previous solar system model (solar_system_model.py) as it incorporates the Runge-Kutta method which has improved accuracy over the Euler method. This allows for larger values of dt, resulting in faster computation times. This program also includes N-body calculations which consider the gravitational forces from all other planets in the solar system.
+This program improves upon my previous solar system model (solar_system_model.py) as it incorporates the Runge-Kutta method which has improved accuracy over the Euler method. This allows for larger values of dt, resulting in faster computation times. This program also includes N-body calculations which considers the gravitational forces from all other planets in the solar system.
 
 In this project, I furthered my knowledge of object-oriented programming, allowing me to write more robust code which can be used for other applications. This was necessary as the project requirements were quite broad, meaning a purely procedural approach would not be as effective.
 
