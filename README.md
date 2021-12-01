@@ -1,5 +1,13 @@
 # Modelling the Solar System Numerically
 ## Solar System Model - RK4
+### 30/11/2021
+
+solar_system_model_rk4.py has been further developed to complete the main tasks of my uni assignment. This form of the program allows for the plotting of kinetic energy-time graphs which can be used to investigate kirkwood gaps. The total kinetic energy of the system can also be plotted and can be seen to have a net decrease with time. The total potential energy of the system should also be calculated in order to determine if this model obeys conservation of energy.
+
+.dat files are created in order to save data and prevent time consuming calculations being made multiple times. This has saved a lot of time during the development of the program, especially during graphing stages where the main body of code did not need to be re-run.
+
+Further explanation of the code and presentation of results can be found in Numerically Modelling the Solarsystem.pdf.
+
 ### 07/10/2021
 
 solar_system_model_rk4.py is my most recent coding project to date. This program was written for my 3rd year Computational Projects module. It is currently in an intermediate state as extra functionality shall need to be added in order to complete my project goals. 
